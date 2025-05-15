@@ -1,4 +1,4 @@
-FROM python:3.7
+FROM python:3.12.10
 ENV PYTHONUNBUFFERED 1
 
 MAINTAINER mtianyan <1147727180@qq.com>
