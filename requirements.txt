@@ -75,7 +75,7 @@ twine==3.2.0
 tyadmin-api-cli==0.8.0
 unicodecsv==0.14.1
 uritemplate==3.0.1
-urllib3==1.25.10
+urllib3==2.5.0
 webencodings==0.5.1
 xlrd==1.2.0
 xlwt==1.3.0
