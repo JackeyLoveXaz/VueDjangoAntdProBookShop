@@ -12,7 +12,7 @@ cryptography==3.1
 defusedxml==0.6.0
 demjson==2.2.4
 diff-match-patch==20200713
-Django==3.1.1
+Django==4.2.27
 django-cors-headers==3.5.0
 django-crispy-forms==1.9.2
 django-filter==2.3.0
@@ -68,14 +68,14 @@ shellescape==3.8.1
 six==1.15.0
 social-auth-app-django==4.0.0
 social-auth-core==3.3.3
-sqlparse==0.3.1
+sqlparse==0.5.4
 tablib==2.0.0
 tqdm==4.50.2
 twine==3.2.0
 tyadmin-api-cli==0.8.0
 unicodecsv==0.14.1
 uritemplate==3.0.1
-urllib3==1.25.10
+urllib3==2.6.0
 webencodings==0.5.1
 xlrd==1.2.0
 xlwt==1.3.0
